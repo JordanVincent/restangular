@@ -5,7 +5,7 @@
   "description": "Restfull Resources service for AngularJS apps",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mgonto/restangular.git"
+    "url": "git://github.com/JordanVincent/restangular.git"
   },
   "dependencies": {
     "lodash": "https://github.com/bestiejs/lodash/tree/v1.3.0",
